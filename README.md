@@ -113,9 +113,10 @@ Rate limits protect the API provider. **TokenFence protects your wallet.**
 ## Links
 
 - 🌐 [TokenFence Website](https://tokenfence.dev)
-- 📦 Python SDK (coming soon on PyPI)
-- 📦 Node.js SDK (coming soon on npm)
-- 📝 [Blog: Why Your AI Agents Need a Cost Kill Switch](https://github.com/u4ma-kev/tokenfence-blog)
+- 📦 [Python SDK on PyPI](https://pypi.org/project/tokenfence/)
+- 📦 [Node.js SDK on npm](https://www.npmjs.com/package/tokenfence)
+- 📝 [Blog Posts](https://tokenfence.dev/blog) — 57 articles on AI cost control
+- 📖 [Blog Source](https://github.com/u4ma-kev/tokenfence-blog)
 
 ## License
 
